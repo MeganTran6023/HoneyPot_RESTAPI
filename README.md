@@ -25,6 +25,17 @@ this should include a variable for your admin password as well as the mongodb se
 
 ### 4) Run app.js ###
 
-node app_api.js
+ ```node app_api.js```
+
+This should show in terminal:
+
+![image](https://github.com/user-attachments/assets/be25d761-afa8-4705-a946-6c68a65056d1)
+
 
 ## 5) Use Postman or Insomnia to test REST API requests
+
+
+a) GET (get all items)
+
+![image](https://github.com/user-attachments/assets/3f390611-7cf3-4215-99f9-f68072d9a9f1)
+
