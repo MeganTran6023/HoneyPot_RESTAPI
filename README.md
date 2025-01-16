@@ -1,5 +1,11 @@
 # HoneyPot_RESTAPI
 
+### Purpose ###
+
+To make a website that allows teachers or instructors to enter in exam/ assignment questions and answers with API methods. Plan is to turn this into a mock honeypot website to catch students attempting to cheat.
+
+----------------------------------------
+
 ### 1- Necessary Dependencies ###
 
 1) Get packages.json by typing in terminal 
