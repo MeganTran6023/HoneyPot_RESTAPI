@@ -1,4 +1,4 @@
-# HoneyPot_RESTAPI
+# HoneyPot Website - Backend REST API 
 
 ### Purpose ###
 
