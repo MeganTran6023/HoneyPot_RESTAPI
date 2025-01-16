@@ -1,4 +1,4 @@
-# HoneyPot Website - Backend REST API 
+# HoneyPot Website - Backend REST API Development
 
 ### Purpose ###
 
