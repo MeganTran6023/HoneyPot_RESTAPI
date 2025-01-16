@@ -11,7 +11,9 @@
 ``` npm install express mongoose dotenv ```
 
 -> express sets web framework for handling HTTP requests + routings
+
 -> mongoose is needed for js file to connect to MongoDB (database), this saves info in our api
+
 -> dotenv enables us to properly connect to MongoDB using our connection with admin login
 
 ### 2) .gitignore file
